@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="800fb6b6-ac14-42b0-9109-936ef9e6e4da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/auto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/auto_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2en2qxkxdskYtQAxHPtlriZMriX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Python/progect/Pet_Tests" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\it\rostelecom\auto" />
+      <recent name="D:\it\rostelecom\auto\pages" />
+      <recent name="D:\it\rostelecom\auto\tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for auto_test.test_contract">
+    <configuration name="pytest for auto_test.test_contract" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="auto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;auto_test.test_contract&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for auto_test.test_error_phone" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="auto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;auto_test.test_error_phone&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for auto_test.test_error_single_code" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="auto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;auto_test.test_error_single_code&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for auto_test.test_help" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="auto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;auto_test.test_help&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in auto_test.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="auto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/auto_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for auto_test.test_contract" />
+        <item itemvalue="Python tests.pytest for auto_test.test_help" />
+        <item itemvalue="Python tests.pytest in auto_test.py" />
+        <item itemvalue="Python tests.pytest for auto_test.test_error_phone" />
+        <item itemvalue="Python tests.pytest for auto_test.test_error_single_code" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="800fb6b6-ac14-42b0-9109-936ef9e6e4da" name="Default Changelist" comment="" />
+      <created>1712526215531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712526215531</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="444" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1712868586517">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="444" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728@0.0.1360.728" timestamp="1712868586517" />
+    <state x="410" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1712867743781">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="410" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1360.728@0.0.1360.728" timestamp="1712867743781" />
+    <state x="460" y="118" key="FileChooserDialogImpl" timestamp="1712869275601">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="460" y="118" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1712869275601" />
+    <state width="1338" height="248" key="GridCell.Tab.0.bottom" timestamp="1712918199559">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1338" height="248" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1712918199559" />
+    <state width="1338" height="248" key="GridCell.Tab.0.center" timestamp="1712918199559">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1338" height="248" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1712918199559" />
+    <state width="1338" height="248" key="GridCell.Tab.0.left" timestamp="1712918199559">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1338" height="248" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1712918199559" />
+    <state width="1338" height="248" key="GridCell.Tab.0.right" timestamp="1712918199559">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1338" height="248" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1712918199559" />
+    <state x="181" y="0" key="SettingsEditor" timestamp="1712863806399">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="181" y="0" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1712863806399" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1712533937239">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1360.728@0.0.1360.728" timestamp="1712533937239" />
+    <state x="375" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1712919127315">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="375" y="186" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1712919127315" />
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1712737846375">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1360.728@0.0.1360.728" timestamp="1712737846375" />
+  </component>
+</project>
